@@ -1,0 +1,4 @@
+void MissingIncludeTooManyHeuristics()
+{
+	IncludeClassMultipleFolders includeClassMultipleFolders;
+}

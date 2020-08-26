@@ -1,0 +1,4 @@
+void MissingClassOnlineHelpFunction()
+{
+	MissingClassOnlineHelp missingClassOnlineHelp;
+}

@@ -1,0 +1,4 @@
+void GenerateClassFileNotInProjectFunction()
+{
+	FileNotInProject fileNotInProject;
+}

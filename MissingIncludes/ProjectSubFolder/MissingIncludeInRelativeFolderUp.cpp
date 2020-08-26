@@ -1,0 +1,4 @@
+void MissingIncludeClassInRelativeUpFunction()
+{
+	RelativeUpClass relativeUpClass;
+}

@@ -1,0 +1,4 @@
+void GenerateClassFunctionCallFunction()
+{
+	GenerateClassFunctionCall();
+}

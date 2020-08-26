@@ -1,0 +1,2 @@
+class RedirectedClass {};
+void RedirectedFunction();

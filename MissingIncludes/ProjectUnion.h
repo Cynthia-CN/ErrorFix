@@ -1,0 +1,2 @@
+#pragma once
+union ProjectUnion {};

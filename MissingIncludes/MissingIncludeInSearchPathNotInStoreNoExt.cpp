@@ -1,0 +1,4 @@
+void MissingIncludeInSearchPathNotInStoreFunction()
+{
+	IncludeDirClassNoExt includeDirClassNoExt;
+}

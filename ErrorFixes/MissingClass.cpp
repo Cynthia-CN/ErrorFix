@@ -1,0 +1,4 @@
+void MissingClassFunction()
+{
+	MissingClass missingClass;
+}

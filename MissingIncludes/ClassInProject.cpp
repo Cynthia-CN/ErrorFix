@@ -1,0 +1,4 @@
+void MissingIncludeClassInProjectFunction()
+{
+	ProjectClass projectClass;
+}

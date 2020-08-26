@@ -1,0 +1,4 @@
+void AliasedClassFunction()
+{
+	AliasedClass aliasedClass;
+}

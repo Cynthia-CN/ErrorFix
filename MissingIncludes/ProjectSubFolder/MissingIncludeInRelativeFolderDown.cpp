@@ -1,0 +1,4 @@
+void MissingIncludeClassInRelativeFolderDownFunction()
+{
+	RelativeDownClass relativeDownClass;
+}

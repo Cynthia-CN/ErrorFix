@@ -1,0 +1,4 @@
+void MissingIncludeInAdditionalIncludePathFunction()
+{
+	AdditionalIncludeDirClass additionalIncludeDirClass;
+}

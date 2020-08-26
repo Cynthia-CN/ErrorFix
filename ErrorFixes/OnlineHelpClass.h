@@ -1,0 +1,4 @@
+namespace OnlineHelpNS
+{
+	class OnlineHelpClass {};
+}
